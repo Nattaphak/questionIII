@@ -1,0 +1,15 @@
+D:\questionIII\bin\Debug\net6.0\questionIII.exe
+D:\questionIII\bin\Debug\net6.0\questionIII.deps.json
+D:\questionIII\bin\Debug\net6.0\questionIII.runtimeconfig.json
+D:\questionIII\bin\Debug\net6.0\questionIII.dll
+D:\questionIII\bin\Debug\net6.0\questionIII.pdb
+D:\questionIII\obj\Debug\net6.0\questionIII.csproj.AssemblyReference.cache
+D:\questionIII\obj\Debug\net6.0\questionIII.GeneratedMSBuildEditorConfig.editorconfig
+D:\questionIII\obj\Debug\net6.0\questionIII.AssemblyInfoInputs.cache
+D:\questionIII\obj\Debug\net6.0\questionIII.AssemblyInfo.cs
+D:\questionIII\obj\Debug\net6.0\questionIII.csproj.CoreCompileInputs.cache
+D:\questionIII\obj\Debug\net6.0\questionIII.dll
+D:\questionIII\obj\Debug\net6.0\refint\questionIII.dll
+D:\questionIII\obj\Debug\net6.0\questionIII.pdb
+D:\questionIII\obj\Debug\net6.0\questionIII.genruntimeconfig.cache
+D:\questionIII\obj\Debug\net6.0\ref\questionIII.dll
